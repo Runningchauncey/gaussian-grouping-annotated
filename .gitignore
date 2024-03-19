@@ -1,0 +1,7 @@
+data
+dataset
+**/.ipynb_checkpoint
+scene/.ipynb_checkpoints
+arguments/__pycache__ gaussian_renderer/__pycache__ scene/__pycache__ utils/__pycache__
+output
+scene/.ipynb_checkpoints/
